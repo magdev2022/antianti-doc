@@ -65,8 +65,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
+          {          
             items: [
               {
                 label: 'ヘルプ',
